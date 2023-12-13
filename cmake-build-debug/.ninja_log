@@ -1,6 +1,6 @@
 # ninja log v5
 1	40	7234879336155538	CMakeFiles/DDSA_1.dir/2-Day/1-operators.c.obj	e0c91f2bf1aaee2b
-57	120	7240110250938483	DDSA_1.exe	52b08b9d6f0fd3f3
+148	213	7240967684928849	DDSA_1.exe	6ec236aeaacdc763
 2	46	7234876458757342	CMakeFiles/DDSA_1.dir/1-Day/2-adding-two-var.c.obj	4c7be5bc5da89914
 1	38	7234888059764501	CMakeFiles/DDSA_1.dir/2-Day/2-control.c.obj	126312be579495ff
 1	39	7234927454662431	CMakeFiles/DDSA_1.dir/2-Day/5-logic2.c.obj	e19fbffafb011af7
@@ -12,4 +12,25 @@
 1	47	7240104049508540	CMakeFiles/DDSA_1.dir/3-Day/3-function2.c.obj	760d6d2aa86b0129
 1	53	7240110250277561	CMakeFiles/DDSA_1.dir/3-Day/4-parameter.c.obj	ffceda8bc4e36939
 0	153	7240115696605623	CMakeFiles/DDSA_1.dir/3-Day/5-userInput.c.obj	bac8b9ce9a7c4ec2
-153	221	7240115697266219	DDSA_1.exe	c822ee3f26fbbef9
+1	44	7240930587998906	CMakeFiles/DDSA_1.dir/4-Day/1-arr1.c.obj	b884f2083df7cbbc
+1	154	7240938259770357	CMakeFiles/DDSA_1.dir/4-Day/2-arrayAccessing.c.obj	84eb49bd37e43aac
+1	46	7240950839289440	CMakeFiles/DDSA_1.dir/4-Day/3-exampleProgram1.c.obj	c3eeade43e31d726
+0	147	7240967684292270	CMakeFiles/DDSA_1.dir/4-Day/4-structureLesson.c.obj	b2dc7fb00ebc0f8c
+1	153	7240972507161144	CMakeFiles/DDSA_1.dir/4-Day/5-structureAccessing.c.obj	51a54f6996c0092b
+153	215	7240972507760619	DDSA_1.exe	c6b9e23a7fed751f
+1	43	7240972835004586	CMakeFiles/DDSA_1.dir/4-Day/5-structureAccessing.c.obj	51a54f6996c0092b
+43	107	7240972835615141	DDSA_1.exe	c6b9e23a7fed751f
+1	43	7240972903133930	CMakeFiles/DDSA_1.dir/4-Day/5-structureAccessing.c.obj	51a54f6996c0092b
+43	103	7240972903724470	DDSA_1.exe	c6b9e23a7fed751f
+1	41	7240973139052247	CMakeFiles/DDSA_1.dir/4-Day/5-structureAccessing.c.obj	51a54f6996c0092b
+41	106	7240973139682827	DDSA_1.exe	c6b9e23a7fed751f
+1	46	7240973350109106	CMakeFiles/DDSA_1.dir/4-Day/5-structureAccessing.c.obj	51a54f6996c0092b
+46	109	7240973350714362	DDSA_1.exe	c6b9e23a7fed751f
+1	41	7240974854513245	CMakeFiles/DDSA_1.dir/4-Day/5-structureAccessing.c.obj	51a54f6996c0092b
+41	103	7240974855108841	DDSA_1.exe	c6b9e23a7fed751f
+1	46	7240975108920888	CMakeFiles/DDSA_1.dir/4-Day/5-structureAccessing.c.obj	51a54f6996c0092b
+46	104	7240975109490739	DDSA_1.exe	c6b9e23a7fed751f
+2	44	7240975170067102	CMakeFiles/DDSA_1.dir/4-Day/5-structureAccessing.c.obj	51a54f6996c0092b
+44	106	7240975170652749	DDSA_1.exe	c6b9e23a7fed751f
+2	48	7240978434588714	CMakeFiles/DDSA_1.dir/4-Day/5-structureAccessing.c.obj	51a54f6996c0092b
+48	113	7240978435202762	DDSA_1.exe	c6b9e23a7fed751f
