@@ -3,7 +3,7 @@
 //
 
 #include "stdio.h"
-#include "string.h"
+#include "string.h" // standard library
 
 struct Employee{
     char name[20];

@@ -3,4 +3,4 @@ project(DDSA_1 C)
 
 set(CMAKE_C_STANDARD 11)
 
-add_executable(DDSA_1 4-Day/5-structureAccessing.c)
+add_executable(DDSA_1 5-Day/3-checking.c)
