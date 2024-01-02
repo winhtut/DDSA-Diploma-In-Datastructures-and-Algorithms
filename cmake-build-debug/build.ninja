@@ -49,11 +49,11 @@ cmake_ninja_workdir = D$:/mySrouceCode/DDSA-1/cmake-build-debug/
 
 build cmake_object_order_depends_target_DDSA_1: phony || CMakeFiles/DDSA_1.dir
 
-build CMakeFiles/DDSA_1.dir/7-Day/1-checkForReg-Login.c.obj: C_COMPILER__DDSA_1_Debug D$:/mySrouceCode/DDSA-1/7-Day/1-checkForReg-Login.c || cmake_object_order_depends_target_DDSA_1
-  DEP_FILE = CMakeFiles\DDSA_1.dir\7-Day\1-checkForReg-Login.c.obj.d
+build CMakeFiles/DDSA_1.dir/8-Day/5-our_program_update.c.obj: C_COMPILER__DDSA_1_Debug D$:/mySrouceCode/DDSA-1/8-Day/5-our_program_update.c || cmake_object_order_depends_target_DDSA_1
+  DEP_FILE = CMakeFiles\DDSA_1.dir\8-Day\5-our_program_update.c.obj.d
   FLAGS = -g -std=gnu11
   OBJECT_DIR = CMakeFiles\DDSA_1.dir
-  OBJECT_FILE_DIR = CMakeFiles\DDSA_1.dir\7-Day
+  OBJECT_FILE_DIR = CMakeFiles\DDSA_1.dir\8-Day
 
 
 # =============================================================================
@@ -63,7 +63,7 @@ build CMakeFiles/DDSA_1.dir/7-Day/1-checkForReg-Login.c.obj: C_COMPILER__DDSA_1_
 #############################################
 # Link the executable DDSA_1.exe
 
-build DDSA_1.exe: C_EXECUTABLE_LINKER__DDSA_1_Debug CMakeFiles/DDSA_1.dir/7-Day/1-checkForReg-Login.c.obj
+build DDSA_1.exe: C_EXECUTABLE_LINKER__DDSA_1_Debug CMakeFiles/DDSA_1.dir/8-Day/5-our_program_update.c.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\DDSA_1.dir

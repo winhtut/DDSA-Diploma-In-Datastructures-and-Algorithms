@@ -1,6 +1,7 @@
 # ninja log v5
+1	46	7259100197712455	CMakeFiles/DDSA_1.dir/8-Day/2-Pointer_arithmetic.c.obj	5f5f435aac549d27
 1	40	7234879336155538	CMakeFiles/DDSA_1.dir/2-Day/1-operators.c.obj	e0c91f2bf1aaee2b
-58	128	7247028035472265	DDSA_1.exe	55b1878c55872a58
+46	107	7259106608760584	DDSA_1.exe	5ef50523acf75bcc
 2	46	7234876458757342	CMakeFiles/DDSA_1.dir/1-Day/2-adding-two-var.c.obj	4c7be5bc5da89914
 1	38	7234888059764501	CMakeFiles/DDSA_1.dir/2-Day/2-control.c.obj	126312be579495ff
 1	39	7234927454662431	CMakeFiles/DDSA_1.dir/2-Day/5-logic2.c.obj	e19fbffafb011af7
@@ -14,6 +15,7 @@
 0	153	7240115696605623	CMakeFiles/DDSA_1.dir/3-Day/5-userInput.c.obj	bac8b9ce9a7c4ec2
 1	44	7240930587998906	CMakeFiles/DDSA_1.dir/4-Day/1-arr1.c.obj	b884f2083df7cbbc
 1	154	7240938259770357	CMakeFiles/DDSA_1.dir/4-Day/2-arrayAccessing.c.obj	84eb49bd37e43aac
+1	46	7259106608174796	CMakeFiles/DDSA_1.dir/8-Day/4-Pointer_to_Pointer.c.obj	c7ae40f4c11fbf24
 1	46	7240950839289440	CMakeFiles/DDSA_1.dir/4-Day/3-exampleProgram1.c.obj	c3eeade43e31d726
 0	147	7240967684292270	CMakeFiles/DDSA_1.dir/4-Day/4-structureLesson.c.obj	b2dc7fb00ebc0f8c
 2	48	7240978434588714	CMakeFiles/DDSA_1.dir/4-Day/5-structureAccessing.c.obj	51a54f6996c0092b
@@ -21,11 +23,12 @@
 0	153	7246133766143988	CMakeFiles/DDSA_1.dir/5-Day/2-manyUsers.c.obj	bcf624e539553169
 1	153	7246157377642343	CMakeFiles/DDSA_1.dir/5-Day/3-checking.c.obj	dfe1ab8acf4aa64
 0	58	7247028034821696	CMakeFiles/DDSA_1.dir/6-Day/1-registration.c.obj	c1371f51e5623cd
-1	115	7253017825441224	CMakeFiles/DDSA_1.dir/7-Day/1-checkForReg-Login.c.obj	b973862609bf5319
-115	281	7253017827081987	DDSA_1.exe	c4694aba0655487d
-1	169	7253042421106853	CMakeFiles/DDSA_1.dir/7-Day/1-checkForReg-Login.c.obj	b973862609bf5319
-169	236	7253042421737424	DDSA_1.exe	c4694aba0655487d
-1	57	7253056201765762	CMakeFiles/DDSA_1.dir/7-Day/1-checkForReg-Login.c.obj	b973862609bf5319
-57	121	7253056202396332	DDSA_1.exe	c4694aba0655487d
 1	58	7253066087035657	CMakeFiles/DDSA_1.dir/7-Day/1-checkForReg-Login.c.obj	b973862609bf5319
-59	123	7253066087657608	DDSA_1.exe	c4694aba0655487d
+1	45	7259090015868626	CMakeFiles/DDSA_1.dir/8-Day/1-pinter_lesson.c.obj	b6970f70d26d9c51
+0	43	7259102382337737	CMakeFiles/DDSA_1.dir/8-Day/3-Pinter_Array.c.obj	b91c7727bc634f5c
+1	174	7259109206167641	CMakeFiles/DDSA_1.dir/8-Day/5-our_program_update.c.obj	4a85aec2bd9c80c6
+175	246	7259109206848257	DDSA_1.exe	70ff1ca599bb34ff
+2	60	7259112730778251	CMakeFiles/DDSA_1.dir/8-Day/5-our_program_update.c.obj	4a85aec2bd9c80c6
+60	129	7259112731455118	DDSA_1.exe	70ff1ca599bb34ff
+1	58	7259122859919161	CMakeFiles/DDSA_1.dir/8-Day/5-our_program_update.c.obj	4a85aec2bd9c80c6
+58	124	7259122860560844	DDSA_1.exe	70ff1ca599bb34ff
