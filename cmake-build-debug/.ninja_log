@@ -1,7 +1,8 @@
 # ninja log v5
+0	84	7264260139073108	CMakeFiles/DDSA_1.dir/9-Day/9.2-callReference.c.obj	dbfbd52e5514002c
 1	46	7259100197712455	CMakeFiles/DDSA_1.dir/8-Day/2-Pointer_arithmetic.c.obj	5f5f435aac549d27
 1	40	7234879336155538	CMakeFiles/DDSA_1.dir/2-Day/1-operators.c.obj	e0c91f2bf1aaee2b
-46	107	7259106608760584	DDSA_1.exe	5ef50523acf75bcc
+172	239	7264274815723613	DDSA_1.exe	41bd58a8667b08f7
 2	46	7234876458757342	CMakeFiles/DDSA_1.dir/1-Day/2-adding-two-var.c.obj	4c7be5bc5da89914
 1	38	7234888059764501	CMakeFiles/DDSA_1.dir/2-Day/2-control.c.obj	126312be579495ff
 1	39	7234927454662431	CMakeFiles/DDSA_1.dir/2-Day/5-logic2.c.obj	e19fbffafb011af7
@@ -18,6 +19,7 @@
 1	46	7259106608174796	CMakeFiles/DDSA_1.dir/8-Day/4-Pointer_to_Pointer.c.obj	c7ae40f4c11fbf24
 1	46	7240950839289440	CMakeFiles/DDSA_1.dir/4-Day/3-exampleProgram1.c.obj	c3eeade43e31d726
 0	147	7240967684292270	CMakeFiles/DDSA_1.dir/4-Day/4-structureLesson.c.obj	b2dc7fb00ebc0f8c
+1	46	7264254790708488	CMakeFiles/DDSA_1.dir/9-Day/9.1-Reference.c.obj	cd29ee819fd21171
 2	48	7240978434588714	CMakeFiles/DDSA_1.dir/4-Day/5-structureAccessing.c.obj	51a54f6996c0092b
 1	45	7246125527411463	CMakeFiles/DDSA_1.dir/5-Day/1-usingString.c.obj	df8664ea5e616cf7
 0	153	7246133766143988	CMakeFiles/DDSA_1.dir/5-Day/2-manyUsers.c.obj	bcf624e539553169
@@ -26,9 +28,9 @@
 1	58	7253066087035657	CMakeFiles/DDSA_1.dir/7-Day/1-checkForReg-Login.c.obj	b973862609bf5319
 1	45	7259090015868626	CMakeFiles/DDSA_1.dir/8-Day/1-pinter_lesson.c.obj	b6970f70d26d9c51
 0	43	7259102382337737	CMakeFiles/DDSA_1.dir/8-Day/3-Pinter_Array.c.obj	b91c7727bc634f5c
-1	174	7259109206167641	CMakeFiles/DDSA_1.dir/8-Day/5-our_program_update.c.obj	4a85aec2bd9c80c6
-175	246	7259109206848257	DDSA_1.exe	70ff1ca599bb34ff
-2	60	7259112730778251	CMakeFiles/DDSA_1.dir/8-Day/5-our_program_update.c.obj	4a85aec2bd9c80c6
-60	129	7259112731455118	DDSA_1.exe	70ff1ca599bb34ff
 1	58	7259122859919161	CMakeFiles/DDSA_1.dir/8-Day/5-our_program_update.c.obj	4a85aec2bd9c80c6
-58	124	7259122860560844	DDSA_1.exe	70ff1ca599bb34ff
+0	171	7264274815067471	CMakeFiles/DDSA_1.dir/9-Day/9.3-DynamicMM-malloc.c.obj	b3b35f3d13eca2cd
+0	173	7264295221089153	CMakeFiles/DDSA_1.dir/9-Day/9.4-ourProgram.c.obj	e8997ecec6b5fc0e
+174	251	7264295221849751	DDSA_1.exe	fc05a5d73c68a8d2
+1	61	7264298830369119	CMakeFiles/DDSA_1.dir/9-Day/9.4-ourProgram.c.obj	e8997ecec6b5fc0e
+62	129	7264298831014484	DDSA_1.exe	fc05a5d73c68a8d2
