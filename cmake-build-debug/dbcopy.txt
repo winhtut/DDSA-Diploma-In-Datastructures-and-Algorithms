@@ -1,8 +1,5 @@
-1 admin1 win@gmail.com 123 9595 mm 123
-2 admin2 win@gmail.com 123 9595 mm 123
-3 admin3 win@gmail.com 123 9595 mm 123
-4 win1 win@gmail.com 123 9595 mm 123
-5 win2 win@gmail.com 123 9595 mm 123
-6 win3 win@gmail.com 123 9595 mm 123
-7 win4 win@gmail.com 123 9595 mm 123
-
+0 win win@gmail.com win123 123 mm 123 1000
+1 htut htut@gmail.com 123 123 mm 122 1000
+2 winhtut winhtut@gmail.com 123 9590 mm 123 1000
+3 normal_user winhtut1@gmail.com 1233 9599 mm 123 1000
+4 TA ta@gmail.com 1234 9999 uk 1234 1000

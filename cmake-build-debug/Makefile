@@ -128,29 +128,29 @@ DDSA_1/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\DDSA_1.dir\build.make CMakeFiles/DDSA_1.dir/build
 .PHONY : DDSA_1/fast
 
-13-Day/13.1-program.obj: 13-Day/13.1-program.c.obj
-.PHONY : 13-Day/13.1-program.obj
+14-Day/14.1-program.obj: 14-Day/14.1-program.c.obj
+.PHONY : 14-Day/14.1-program.obj
 
 # target to build an object file
-13-Day/13.1-program.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\DDSA_1.dir\build.make CMakeFiles/DDSA_1.dir/13-Day/13.1-program.c.obj
-.PHONY : 13-Day/13.1-program.c.obj
+14-Day/14.1-program.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DDSA_1.dir\build.make CMakeFiles/DDSA_1.dir/14-Day/14.1-program.c.obj
+.PHONY : 14-Day/14.1-program.c.obj
 
-13-Day/13.1-program.i: 13-Day/13.1-program.c.i
-.PHONY : 13-Day/13.1-program.i
+14-Day/14.1-program.i: 14-Day/14.1-program.c.i
+.PHONY : 14-Day/14.1-program.i
 
 # target to preprocess a source file
-13-Day/13.1-program.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\DDSA_1.dir\build.make CMakeFiles/DDSA_1.dir/13-Day/13.1-program.c.i
-.PHONY : 13-Day/13.1-program.c.i
+14-Day/14.1-program.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DDSA_1.dir\build.make CMakeFiles/DDSA_1.dir/14-Day/14.1-program.c.i
+.PHONY : 14-Day/14.1-program.c.i
 
-13-Day/13.1-program.s: 13-Day/13.1-program.c.s
-.PHONY : 13-Day/13.1-program.s
+14-Day/14.1-program.s: 14-Day/14.1-program.c.s
+.PHONY : 14-Day/14.1-program.s
 
 # target to generate assembly for a file
-13-Day/13.1-program.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\DDSA_1.dir\build.make CMakeFiles/DDSA_1.dir/13-Day/13.1-program.c.s
-.PHONY : 13-Day/13.1-program.c.s
+14-Day/14.1-program.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DDSA_1.dir\build.make CMakeFiles/DDSA_1.dir/14-Day/14.1-program.c.s
+.PHONY : 14-Day/14.1-program.c.s
 
 # Help Target
 help:
@@ -161,9 +161,9 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... DDSA_1
-	@echo ... 13-Day/13.1-program.obj
-	@echo ... 13-Day/13.1-program.i
-	@echo ... 13-Day/13.1-program.s
+	@echo ... 14-Day/14.1-program.obj
+	@echo ... 14-Day/14.1-program.i
+	@echo ... 14-Day/14.1-program.s
 .PHONY : help
 
 
