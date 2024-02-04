@@ -1,3 +1,3 @@
-D:/mySrouceCode/DDSA-1/cmake-build-debug/CMakeFiles/DDSA_1.dir
-D:/mySrouceCode/DDSA-1/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/mySrouceCode/DDSA-1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+F:/MySourceCode/DDSA-1-Zoom/DDSA-Diploma-In-Datastructures-and-Algorithms/cmake-build-debug/CMakeFiles/DDSA_1.dir
+F:/MySourceCode/DDSA-1-Zoom/DDSA-Diploma-In-Datastructures-and-Algorithms/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/MySourceCode/DDSA-1-Zoom/DDSA-Diploma-In-Datastructures-and-Algorithms/cmake-build-debug/CMakeFiles/rebuild_cache.dir
