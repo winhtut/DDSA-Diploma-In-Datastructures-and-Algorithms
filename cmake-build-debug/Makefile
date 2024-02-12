@@ -128,29 +128,29 @@ DDSA_1/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\DDSA_1.dir\build.make CMakeFiles/DDSA_1.dir/build
 .PHONY : DDSA_1/fast
 
-14-Day/14.1-program.obj: 14-Day/14.1-program.c.obj
-.PHONY : 14-Day/14.1-program.obj
+15-Day/15.2-OurProgram.obj: 15-Day/15.2-OurProgram.c.obj
+.PHONY : 15-Day/15.2-OurProgram.obj
 
 # target to build an object file
-14-Day/14.1-program.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\DDSA_1.dir\build.make CMakeFiles/DDSA_1.dir/14-Day/14.1-program.c.obj
-.PHONY : 14-Day/14.1-program.c.obj
+15-Day/15.2-OurProgram.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DDSA_1.dir\build.make CMakeFiles/DDSA_1.dir/15-Day/15.2-OurProgram.c.obj
+.PHONY : 15-Day/15.2-OurProgram.c.obj
 
-14-Day/14.1-program.i: 14-Day/14.1-program.c.i
-.PHONY : 14-Day/14.1-program.i
+15-Day/15.2-OurProgram.i: 15-Day/15.2-OurProgram.c.i
+.PHONY : 15-Day/15.2-OurProgram.i
 
 # target to preprocess a source file
-14-Day/14.1-program.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\DDSA_1.dir\build.make CMakeFiles/DDSA_1.dir/14-Day/14.1-program.c.i
-.PHONY : 14-Day/14.1-program.c.i
+15-Day/15.2-OurProgram.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DDSA_1.dir\build.make CMakeFiles/DDSA_1.dir/15-Day/15.2-OurProgram.c.i
+.PHONY : 15-Day/15.2-OurProgram.c.i
 
-14-Day/14.1-program.s: 14-Day/14.1-program.c.s
-.PHONY : 14-Day/14.1-program.s
+15-Day/15.2-OurProgram.s: 15-Day/15.2-OurProgram.c.s
+.PHONY : 15-Day/15.2-OurProgram.s
 
 # target to generate assembly for a file
-14-Day/14.1-program.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\DDSA_1.dir\build.make CMakeFiles/DDSA_1.dir/14-Day/14.1-program.c.s
-.PHONY : 14-Day/14.1-program.c.s
+15-Day/15.2-OurProgram.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DDSA_1.dir\build.make CMakeFiles/DDSA_1.dir/15-Day/15.2-OurProgram.c.s
+.PHONY : 15-Day/15.2-OurProgram.c.s
 
 # Help Target
 help:
@@ -161,9 +161,9 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... DDSA_1
-	@echo ... 14-Day/14.1-program.obj
-	@echo ... 14-Day/14.1-program.i
-	@echo ... 14-Day/14.1-program.s
+	@echo ... 15-Day/15.2-OurProgram.obj
+	@echo ... 15-Day/15.2-OurProgram.i
+	@echo ... 15-Day/15.2-OurProgram.s
 .PHONY : help
 
 
