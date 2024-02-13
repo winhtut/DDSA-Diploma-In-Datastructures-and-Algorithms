@@ -1,5 +1,6 @@
-0 win win@gmail.com win123 123 mm 123 1000
-1 htut htut@gmail.com 123 123 mm 122 1000
-2 winhtut winhtut@gmail.com 123 9590 mm 123 1000
-3 normal_user winhtut1@gmail.com 1233 9599 mm 123 1000
-4 TA ta@gmail.com 1234 9999 uk 1234 1000
+0 win win@gmail.com win123 123 mm 123 1000.000000 3 From-win-to-htut-1000 From-win-to-SYH-1000 From-win-to-TA-1000
+1 htut htut@gmail.com 123 123 mm 122 1000.000000 3 From-win-to-htut-2000 From-win-to-SYH-2000 From-win-to-TA-2000
+2 SYH winhtut@gmail.com 123 9590 mm 123 1000.000000 3 From-win-to-htut-3000 From-win-to-SYH-3000 From-win-to-TA-3000
+3 normal_user winhtut1@gmail.com 1233 9599 mm 123 4450.000000 3 From-normal_user-To-TA-200.000000 From-normal_user-To-TA-300.000000 ReceiveFrom-asm-150.000000
+4 TA ta@gmail.com 1234 9999 uk 1234 2200.000000 2 ReceiveFrom-normal_user-200.000000 ReceiveFrom-normal_user-300.000000
+5 asm asm@gmail.com asm123 91910 mm 123 850.000000 1 From-asm-To-normal_user-150.000000
