@@ -4,4 +4,4 @@ project(DDSA_1 C)
 set(CMAKE_C_STANDARD 11)
 
 add_executable(DDSA_1
-        17-Day/17.2-LLDS.c)
+        18-Day/18.2-programmiz-dll.c)

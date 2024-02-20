@@ -128,29 +128,29 @@ DDSA_1/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\DDSA_1.dir\build.make CMakeFiles/DDSA_1.dir/build
 .PHONY : DDSA_1/fast
 
-17-Day/17.2-LLDS.obj: 17-Day/17.2-LLDS.c.obj
-.PHONY : 17-Day/17.2-LLDS.obj
+18-Day/18.2-programmiz-dll.obj: 18-Day/18.2-programmiz-dll.c.obj
+.PHONY : 18-Day/18.2-programmiz-dll.obj
 
 # target to build an object file
-17-Day/17.2-LLDS.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\DDSA_1.dir\build.make CMakeFiles/DDSA_1.dir/17-Day/17.2-LLDS.c.obj
-.PHONY : 17-Day/17.2-LLDS.c.obj
+18-Day/18.2-programmiz-dll.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DDSA_1.dir\build.make CMakeFiles/DDSA_1.dir/18-Day/18.2-programmiz-dll.c.obj
+.PHONY : 18-Day/18.2-programmiz-dll.c.obj
 
-17-Day/17.2-LLDS.i: 17-Day/17.2-LLDS.c.i
-.PHONY : 17-Day/17.2-LLDS.i
+18-Day/18.2-programmiz-dll.i: 18-Day/18.2-programmiz-dll.c.i
+.PHONY : 18-Day/18.2-programmiz-dll.i
 
 # target to preprocess a source file
-17-Day/17.2-LLDS.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\DDSA_1.dir\build.make CMakeFiles/DDSA_1.dir/17-Day/17.2-LLDS.c.i
-.PHONY : 17-Day/17.2-LLDS.c.i
+18-Day/18.2-programmiz-dll.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DDSA_1.dir\build.make CMakeFiles/DDSA_1.dir/18-Day/18.2-programmiz-dll.c.i
+.PHONY : 18-Day/18.2-programmiz-dll.c.i
 
-17-Day/17.2-LLDS.s: 17-Day/17.2-LLDS.c.s
-.PHONY : 17-Day/17.2-LLDS.s
+18-Day/18.2-programmiz-dll.s: 18-Day/18.2-programmiz-dll.c.s
+.PHONY : 18-Day/18.2-programmiz-dll.s
 
 # target to generate assembly for a file
-17-Day/17.2-LLDS.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\DDSA_1.dir\build.make CMakeFiles/DDSA_1.dir/17-Day/17.2-LLDS.c.s
-.PHONY : 17-Day/17.2-LLDS.c.s
+18-Day/18.2-programmiz-dll.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DDSA_1.dir\build.make CMakeFiles/DDSA_1.dir/18-Day/18.2-programmiz-dll.c.s
+.PHONY : 18-Day/18.2-programmiz-dll.c.s
 
 # Help Target
 help:
@@ -161,9 +161,9 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... DDSA_1
-	@echo ... 17-Day/17.2-LLDS.obj
-	@echo ... 17-Day/17.2-LLDS.i
-	@echo ... 17-Day/17.2-LLDS.s
+	@echo ... 18-Day/18.2-programmiz-dll.obj
+	@echo ... 18-Day/18.2-programmiz-dll.i
+	@echo ... 18-Day/18.2-programmiz-dll.s
 .PHONY : help
 
 

@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/DDSA_1.dir/17-Day/17.2-LLDS.c.obj"
-  "CMakeFiles/DDSA_1.dir/17-Day/17.2-LLDS.c.obj.d"
+  "CMakeFiles/DDSA_1.dir/18-Day/18.2-programmiz-dll.c.obj"
+  "CMakeFiles/DDSA_1.dir/18-Day/18.2-programmiz-dll.c.obj.d"
   "DDSA_1.exe"
   "DDSA_1.exe.manifest"
   "DDSA_1.pdb"
