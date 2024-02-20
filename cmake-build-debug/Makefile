@@ -128,29 +128,29 @@ DDSA_1/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\DDSA_1.dir\build.make CMakeFiles/DDSA_1.dir/build
 .PHONY : DDSA_1/fast
 
-16-Day/OurProgram.obj: 16-Day/OurProgram.c.obj
-.PHONY : 16-Day/OurProgram.obj
+17-Day/17.2-LLDS.obj: 17-Day/17.2-LLDS.c.obj
+.PHONY : 17-Day/17.2-LLDS.obj
 
 # target to build an object file
-16-Day/OurProgram.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\DDSA_1.dir\build.make CMakeFiles/DDSA_1.dir/16-Day/OurProgram.c.obj
-.PHONY : 16-Day/OurProgram.c.obj
+17-Day/17.2-LLDS.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DDSA_1.dir\build.make CMakeFiles/DDSA_1.dir/17-Day/17.2-LLDS.c.obj
+.PHONY : 17-Day/17.2-LLDS.c.obj
 
-16-Day/OurProgram.i: 16-Day/OurProgram.c.i
-.PHONY : 16-Day/OurProgram.i
+17-Day/17.2-LLDS.i: 17-Day/17.2-LLDS.c.i
+.PHONY : 17-Day/17.2-LLDS.i
 
 # target to preprocess a source file
-16-Day/OurProgram.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\DDSA_1.dir\build.make CMakeFiles/DDSA_1.dir/16-Day/OurProgram.c.i
-.PHONY : 16-Day/OurProgram.c.i
+17-Day/17.2-LLDS.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DDSA_1.dir\build.make CMakeFiles/DDSA_1.dir/17-Day/17.2-LLDS.c.i
+.PHONY : 17-Day/17.2-LLDS.c.i
 
-16-Day/OurProgram.s: 16-Day/OurProgram.c.s
-.PHONY : 16-Day/OurProgram.s
+17-Day/17.2-LLDS.s: 17-Day/17.2-LLDS.c.s
+.PHONY : 17-Day/17.2-LLDS.s
 
 # target to generate assembly for a file
-16-Day/OurProgram.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\DDSA_1.dir\build.make CMakeFiles/DDSA_1.dir/16-Day/OurProgram.c.s
-.PHONY : 16-Day/OurProgram.c.s
+17-Day/17.2-LLDS.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DDSA_1.dir\build.make CMakeFiles/DDSA_1.dir/17-Day/17.2-LLDS.c.s
+.PHONY : 17-Day/17.2-LLDS.c.s
 
 # Help Target
 help:
@@ -161,9 +161,9 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... DDSA_1
-	@echo ... 16-Day/OurProgram.obj
-	@echo ... 16-Day/OurProgram.i
-	@echo ... 16-Day/OurProgram.s
+	@echo ... 17-Day/17.2-LLDS.obj
+	@echo ... 17-Day/17.2-LLDS.i
+	@echo ... 17-Day/17.2-LLDS.s
 .PHONY : help
 
 

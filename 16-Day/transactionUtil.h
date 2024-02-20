@@ -90,5 +90,4 @@ void to_transfer_checking(int id){
 
 }
 
-
 #endif //DDSA_1_TRANSACTIONUTIL_H

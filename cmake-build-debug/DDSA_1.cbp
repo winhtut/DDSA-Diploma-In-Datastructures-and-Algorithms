@@ -76,16 +76,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="F:/MySourceCode/DDSA-1-Zoom/DDSA-Diploma-In-Datastructures-and-Algorithms/16-Day/OurProgram.c">
-			<Option target="DDSA_1"/>
-		</Unit>
-		<Unit filename="F:/MySourceCode/DDSA-1-Zoom/DDSA-Diploma-In-Datastructures-and-Algorithms/16-Day/n1c.h">
-			<Option target="DDSA_1"/>
-		</Unit>
-		<Unit filename="F:/MySourceCode/DDSA-1-Zoom/DDSA-Diploma-In-Datastructures-and-Algorithms/16-Day/transactionUtil.h">
-			<Option target="DDSA_1"/>
-		</Unit>
-		<Unit filename="F:/MySourceCode/DDSA-1-Zoom/DDSA-Diploma-In-Datastructures-and-Algorithms/16-Day/validationUtil.h">
+		<Unit filename="F:/MySourceCode/DDSA-1-Zoom/DDSA-Diploma-In-Datastructures-and-Algorithms/17-Day/17.2-LLDS.c">
 			<Option target="DDSA_1"/>
 		</Unit>
 		<Unit filename="F:/MySourceCode/DDSA-1-Zoom/DDSA-Diploma-In-Datastructures-and-Algorithms/CMakeLists.txt">
