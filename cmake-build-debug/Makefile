@@ -128,29 +128,29 @@ DDSA_1/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\DDSA_1.dir\build.make CMakeFiles/DDSA_1.dir/build
 .PHONY : DDSA_1/fast
 
-18-Day/18.2-programmiz-dll.obj: 18-Day/18.2-programmiz-dll.c.obj
-.PHONY : 18-Day/18.2-programmiz-dll.obj
+20-Day/OurProgram.obj: 20-Day/OurProgram.c.obj
+.PHONY : 20-Day/OurProgram.obj
 
 # target to build an object file
-18-Day/18.2-programmiz-dll.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\DDSA_1.dir\build.make CMakeFiles/DDSA_1.dir/18-Day/18.2-programmiz-dll.c.obj
-.PHONY : 18-Day/18.2-programmiz-dll.c.obj
+20-Day/OurProgram.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DDSA_1.dir\build.make CMakeFiles/DDSA_1.dir/20-Day/OurProgram.c.obj
+.PHONY : 20-Day/OurProgram.c.obj
 
-18-Day/18.2-programmiz-dll.i: 18-Day/18.2-programmiz-dll.c.i
-.PHONY : 18-Day/18.2-programmiz-dll.i
+20-Day/OurProgram.i: 20-Day/OurProgram.c.i
+.PHONY : 20-Day/OurProgram.i
 
 # target to preprocess a source file
-18-Day/18.2-programmiz-dll.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\DDSA_1.dir\build.make CMakeFiles/DDSA_1.dir/18-Day/18.2-programmiz-dll.c.i
-.PHONY : 18-Day/18.2-programmiz-dll.c.i
+20-Day/OurProgram.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DDSA_1.dir\build.make CMakeFiles/DDSA_1.dir/20-Day/OurProgram.c.i
+.PHONY : 20-Day/OurProgram.c.i
 
-18-Day/18.2-programmiz-dll.s: 18-Day/18.2-programmiz-dll.c.s
-.PHONY : 18-Day/18.2-programmiz-dll.s
+20-Day/OurProgram.s: 20-Day/OurProgram.c.s
+.PHONY : 20-Day/OurProgram.s
 
 # target to generate assembly for a file
-18-Day/18.2-programmiz-dll.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\DDSA_1.dir\build.make CMakeFiles/DDSA_1.dir/18-Day/18.2-programmiz-dll.c.s
-.PHONY : 18-Day/18.2-programmiz-dll.c.s
+20-Day/OurProgram.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DDSA_1.dir\build.make CMakeFiles/DDSA_1.dir/20-Day/OurProgram.c.s
+.PHONY : 20-Day/OurProgram.c.s
 
 # Help Target
 help:
@@ -161,9 +161,9 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... DDSA_1
-	@echo ... 18-Day/18.2-programmiz-dll.obj
-	@echo ... 18-Day/18.2-programmiz-dll.i
-	@echo ... 18-Day/18.2-programmiz-dll.s
+	@echo ... 20-Day/OurProgram.obj
+	@echo ... 20-Day/OurProgram.i
+	@echo ... 20-Day/OurProgram.s
 .PHONY : help
 
 

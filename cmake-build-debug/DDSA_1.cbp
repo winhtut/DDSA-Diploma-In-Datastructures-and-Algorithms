@@ -76,7 +76,13 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="F:/MySourceCode/DDSA-1-Zoom/DDSA-Diploma-In-Datastructures-and-Algorithms/18-Day/18.2-programmiz-dll.c">
+		<Unit filename="F:/MySourceCode/DDSA-1-Zoom/DDSA-Diploma-In-Datastructures-and-Algorithms/20-Day/Decryption.h">
+			<Option target="DDSA_1"/>
+		</Unit>
+		<Unit filename="F:/MySourceCode/DDSA-1-Zoom/DDSA-Diploma-In-Datastructures-and-Algorithms/20-Day/Encryption.h">
+			<Option target="DDSA_1"/>
+		</Unit>
+		<Unit filename="F:/MySourceCode/DDSA-1-Zoom/DDSA-Diploma-In-Datastructures-and-Algorithms/20-Day/OurProgram.c">
 			<Option target="DDSA_1"/>
 		</Unit>
 		<Unit filename="F:/MySourceCode/DDSA-1-Zoom/DDSA-Diploma-In-Datastructures-and-Algorithms/CMakeLists.txt">

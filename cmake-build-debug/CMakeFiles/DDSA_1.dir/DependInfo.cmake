@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "F:/MySourceCode/DDSA-1-Zoom/DDSA-Diploma-In-Datastructures-and-Algorithms/18-Day/18.2-programmiz-dll.c" "CMakeFiles/DDSA_1.dir/18-Day/18.2-programmiz-dll.c.obj" "gcc" "CMakeFiles/DDSA_1.dir/18-Day/18.2-programmiz-dll.c.obj.d"
+  "F:/MySourceCode/DDSA-1-Zoom/DDSA-Diploma-In-Datastructures-and-Algorithms/20-Day/OurProgram.c" "CMakeFiles/DDSA_1.dir/20-Day/OurProgram.c.obj" "gcc" "CMakeFiles/DDSA_1.dir/20-Day/OurProgram.c.obj.d"
   )
 
 # Targets to which this target links which contain Fortran sources.
