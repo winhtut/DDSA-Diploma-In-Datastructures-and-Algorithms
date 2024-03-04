@@ -15,11 +15,11 @@ WinHtut *Encryption(char *plainText,char *keys){
     WinHtut *encryptedArray=(WinHtut*) malloc(sizeof(WinHtut));
 
     for(int e=0; e<sizeofPlain; e++){
-        int plain = plainText[e];
+        char plain = plainText[e];
         for(int k=0; k<sizeofKey; k++){
-           plain = plain^keys[k];
+            char mkey = keys[k];
+           plain = plain^mkey;
         }
-
         //printf("This is last word for %c is - %d \n",plainText[e],plain);
         encryptedArray->data[e] =  plain;
     }

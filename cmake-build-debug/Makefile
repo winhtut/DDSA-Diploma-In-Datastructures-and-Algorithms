@@ -128,29 +128,29 @@ DDSA_1/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\DDSA_1.dir\build.make CMakeFiles/DDSA_1.dir/build
 .PHONY : DDSA_1/fast
 
-20-Day/OurProgram.obj: 20-Day/OurProgram.c.obj
-.PHONY : 20-Day/OurProgram.obj
+21-Day/OurProgram.obj: 21-Day/OurProgram.c.obj
+.PHONY : 21-Day/OurProgram.obj
 
 # target to build an object file
-20-Day/OurProgram.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\DDSA_1.dir\build.make CMakeFiles/DDSA_1.dir/20-Day/OurProgram.c.obj
-.PHONY : 20-Day/OurProgram.c.obj
+21-Day/OurProgram.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DDSA_1.dir\build.make CMakeFiles/DDSA_1.dir/21-Day/OurProgram.c.obj
+.PHONY : 21-Day/OurProgram.c.obj
 
-20-Day/OurProgram.i: 20-Day/OurProgram.c.i
-.PHONY : 20-Day/OurProgram.i
+21-Day/OurProgram.i: 21-Day/OurProgram.c.i
+.PHONY : 21-Day/OurProgram.i
 
 # target to preprocess a source file
-20-Day/OurProgram.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\DDSA_1.dir\build.make CMakeFiles/DDSA_1.dir/20-Day/OurProgram.c.i
-.PHONY : 20-Day/OurProgram.c.i
+21-Day/OurProgram.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DDSA_1.dir\build.make CMakeFiles/DDSA_1.dir/21-Day/OurProgram.c.i
+.PHONY : 21-Day/OurProgram.c.i
 
-20-Day/OurProgram.s: 20-Day/OurProgram.c.s
-.PHONY : 20-Day/OurProgram.s
+21-Day/OurProgram.s: 21-Day/OurProgram.c.s
+.PHONY : 21-Day/OurProgram.s
 
 # target to generate assembly for a file
-20-Day/OurProgram.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\DDSA_1.dir\build.make CMakeFiles/DDSA_1.dir/20-Day/OurProgram.c.s
-.PHONY : 20-Day/OurProgram.c.s
+21-Day/OurProgram.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DDSA_1.dir\build.make CMakeFiles/DDSA_1.dir/21-Day/OurProgram.c.s
+.PHONY : 21-Day/OurProgram.c.s
 
 # Help Target
 help:
@@ -161,9 +161,9 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... DDSA_1
-	@echo ... 20-Day/OurProgram.obj
-	@echo ... 20-Day/OurProgram.i
-	@echo ... 20-Day/OurProgram.s
+	@echo ... 21-Day/OurProgram.obj
+	@echo ... 21-Day/OurProgram.i
+	@echo ... 21-Day/OurProgram.s
 .PHONY : help
 
 

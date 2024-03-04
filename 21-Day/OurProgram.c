@@ -3,6 +3,7 @@
 //
 #include "n1c.h"
 #include "Encryption.h"
+#include "Decryption.h"
 #include "transactionUtil.h"
 #include "validationUtil.h"
 #include "stdio.h"
@@ -40,11 +41,16 @@ int main(){
 // for testing encrypytion and decryption
 
 
-    char *arr="This is plain text";
+    char *arr="This is from NationalCyberCity";
     char *keys="win123";
 
-    char *returnValue = Encryption(arr,keys);
-    printf("Our CypherText %s\n",returnValue);
+    WinHtut * Encrypted_Data = Encryption(arr,keys);
+   //printf("Our CypherText %s\n",returnValue->data);
+   // printf("This is Encrypted Data from Main:\n");
+//   for(int i=0; i<Encrypted_Data->size; i++){
+//       printf("%c",Encrypted_Data->data[i]);
+//   }
+    Decryption(Encrypted_Data);
 
     return 0;
 }

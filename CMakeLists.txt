@@ -5,8 +5,6 @@ set(CMAKE_C_STANDARD 11)
 
 add_executable(DDSA_1
 
-
-        20-Day/OurProgram.c
-        20-Day/Encryption.h
-        20-Day/Decryption.h
+        21-Day/OurProgram.c
+        21-Day/Decryption.h
 )
