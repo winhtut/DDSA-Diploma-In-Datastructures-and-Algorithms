@@ -128,29 +128,29 @@ DDSA_1/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\DDSA_1.dir\build.make CMakeFiles/DDSA_1.dir/build
 .PHONY : DDSA_1/fast
 
-21-Day/OurProgram.obj: 21-Day/OurProgram.c.obj
-.PHONY : 21-Day/OurProgram.obj
+24-Day/24.2-IntroductionToTreeDS.obj: 24-Day/24.2-IntroductionToTreeDS.c.obj
+.PHONY : 24-Day/24.2-IntroductionToTreeDS.obj
 
 # target to build an object file
-21-Day/OurProgram.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\DDSA_1.dir\build.make CMakeFiles/DDSA_1.dir/21-Day/OurProgram.c.obj
-.PHONY : 21-Day/OurProgram.c.obj
+24-Day/24.2-IntroductionToTreeDS.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DDSA_1.dir\build.make CMakeFiles/DDSA_1.dir/24-Day/24.2-IntroductionToTreeDS.c.obj
+.PHONY : 24-Day/24.2-IntroductionToTreeDS.c.obj
 
-21-Day/OurProgram.i: 21-Day/OurProgram.c.i
-.PHONY : 21-Day/OurProgram.i
+24-Day/24.2-IntroductionToTreeDS.i: 24-Day/24.2-IntroductionToTreeDS.c.i
+.PHONY : 24-Day/24.2-IntroductionToTreeDS.i
 
 # target to preprocess a source file
-21-Day/OurProgram.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\DDSA_1.dir\build.make CMakeFiles/DDSA_1.dir/21-Day/OurProgram.c.i
-.PHONY : 21-Day/OurProgram.c.i
+24-Day/24.2-IntroductionToTreeDS.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DDSA_1.dir\build.make CMakeFiles/DDSA_1.dir/24-Day/24.2-IntroductionToTreeDS.c.i
+.PHONY : 24-Day/24.2-IntroductionToTreeDS.c.i
 
-21-Day/OurProgram.s: 21-Day/OurProgram.c.s
-.PHONY : 21-Day/OurProgram.s
+24-Day/24.2-IntroductionToTreeDS.s: 24-Day/24.2-IntroductionToTreeDS.c.s
+.PHONY : 24-Day/24.2-IntroductionToTreeDS.s
 
 # target to generate assembly for a file
-21-Day/OurProgram.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\DDSA_1.dir\build.make CMakeFiles/DDSA_1.dir/21-Day/OurProgram.c.s
-.PHONY : 21-Day/OurProgram.c.s
+24-Day/24.2-IntroductionToTreeDS.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DDSA_1.dir\build.make CMakeFiles/DDSA_1.dir/24-Day/24.2-IntroductionToTreeDS.c.s
+.PHONY : 24-Day/24.2-IntroductionToTreeDS.c.s
 
 # Help Target
 help:
@@ -161,9 +161,9 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... DDSA_1
-	@echo ... 21-Day/OurProgram.obj
-	@echo ... 21-Day/OurProgram.i
-	@echo ... 21-Day/OurProgram.s
+	@echo ... 24-Day/24.2-IntroductionToTreeDS.obj
+	@echo ... 24-Day/24.2-IntroductionToTreeDS.i
+	@echo ... 24-Day/24.2-IntroductionToTreeDS.s
 .PHONY : help
 
 

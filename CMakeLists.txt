@@ -5,6 +5,8 @@ set(CMAKE_C_STANDARD 11)
 
 add_executable(DDSA_1
 
-        21-Day/OurProgram.c
-        21-Day/Decryption.h
+
+        24-Day/24.2-IntroductionToTreeDS.c
+
+
 )

@@ -76,10 +76,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="F:/MySourceCode/DDSA-1-Zoom/DDSA-Diploma-In-Datastructures-and-Algorithms/21-Day/Decryption.h">
-			<Option target="DDSA_1"/>
-		</Unit>
-		<Unit filename="F:/MySourceCode/DDSA-1-Zoom/DDSA-Diploma-In-Datastructures-and-Algorithms/21-Day/OurProgram.c">
+		<Unit filename="F:/MySourceCode/DDSA-1-Zoom/DDSA-Diploma-In-Datastructures-and-Algorithms/24-Day/24.2-IntroductionToTreeDS.c">
 			<Option target="DDSA_1"/>
 		</Unit>
 		<Unit filename="F:/MySourceCode/DDSA-1-Zoom/DDSA-Diploma-In-Datastructures-and-Algorithms/CMakeLists.txt">
