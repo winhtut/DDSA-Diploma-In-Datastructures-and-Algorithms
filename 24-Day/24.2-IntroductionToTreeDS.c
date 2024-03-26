@@ -35,8 +35,58 @@ struct Node* insertNode(struct Node* root, int data){//5
         root->right = insertNode(root->right,data);
     }
 
-
     return root;
+}
+
+struct Node* findMin(struct Node* root){
+    while (root->left != NULL){
+        root = root->left;
+    }
+    return root;
+}
+
+
+struct Node* deleteNode(struct Node* root, int data){
+
+    if(root==NULL){
+        return root;
+    }
+
+    if(data<root->data){
+
+        root->left=deleteNode(root->left,data);
+    } else if(data>root->data){
+       root->right =  deleteNode(root->right,data);
+    } else{
+
+        if(root->left == NULL){
+            struct Node* temp = root->right;
+            free(root);
+            return temp;
+        } else if(root->right == NULL){
+            struct Node* temp = root->left;
+            free(root);
+            return temp;
+        }
+
+        struct Node* temp = findMin(root->right); // inorder successor
+
+        root->data = temp->data;
+
+        root->right =deleteNode(root->right,temp->data);
+
+    }
+    return root;
+}
+
+void inorder(struct Node* root){
+
+    if(root != NULL){
+        inorder(root->left);
+        printf("%d-",root->data);
+        inorder(root->right);
+    }
+
 }
 
 int main(){
@@ -49,4 +99,12 @@ int main(){
    root =  insertNode(root , 15);
    root =  insertNode(root , 20);
    root =  insertNode(root , 3);
+   root =  insertNode(root , 8);
+   root =  insertNode(root , 13);
+    inorder(root);
+   root = deleteNode(root,10);
+    printf("\n");
+    inorder(root);
+
+
 }
